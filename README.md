@@ -1,2 +1,2 @@
 # basic-algorithms-fcc
-Meus algoritmos básicos em JS
+Algoritmos do módulo Basic Algorithm Scripting da seção JavaScript Algorithms and Data Structures Certification do FreeCodeCamp.
